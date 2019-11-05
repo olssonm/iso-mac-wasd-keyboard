@@ -2,9 +2,9 @@
 
 Mechanical keyboards with a proper ISO layout can be difficult to find. More difficult? A Scandinavian layout. And *yet even* more difficult? All these combined with a Mac-layout...
 
-After way too much searching and research I ended up designing my own, using the [WASD-supplied templates](https://support.wasdkeyboards.com/hc/en-us/articles/115007847008-Download-Template-Files) and Illustrator for custom order. And the result was actually a very pleasant surprise, the  the keyboard is really solid too (rough after using chiclet-style keys for 12+ years though.)
+After way too much searching and research I ended up designing my own, using the [WASD-supplied templates](https://support.wasdkeyboards.com/hc/en-us/articles/115007847008-Download-Template-Files) and Illustrator for custom a order. And the result was actually a very pleasant surprise, the  the keyboard is really solid too (rough after using mostly chiclet-style keys for 12+ years though.)
 
-With this layout I didn't really try to mimic Apple's keyboards, but instead go for perhaps a more retro layout with a bit smaller letters aligned to the top left on the keycaps. I did however end up using SF pro as the typeface. Primary font size is 12pt, secondary and tertiary 9pt.
+With this layout I didn't really try to mimic Apple's keyboards, but instead go for perhaps a more retro layout with a bit smaller letters aligned to the top left on the keycaps. I did however end up using SF Pro (Regular) as the typeface. Primary font size is 12pt, secondary and tertiary 9pt.
 
 Thought I might just as well share this if my Scandinavian friends finds this useful.
 
@@ -18,7 +18,7 @@ Thought I might just as well share this if my Scandinavian friends finds this us
 
 ### Features
 
-* ISO TKL / 88 keys layout.
+* ISO TKL / 88 key layout.
 * A function key replaces "insert" just as on Apples own full scale keyboard.
 * All function keys has symbols instead for their text counterpart (i.e. ⇪, ⇧, ⌃, ⌥ etc.).
 * Uses the unique European Mac symbols for end/home/page down/page up.
